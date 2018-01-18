@@ -1,0 +1,24 @@
+ Random Forest 
+a version of ensemble learning
+
+no need of feature scaling 
+install random forest package
+
+regressor is equal to randomForest(x=subset of the dataset should be a dataframe and y= should be a vector like dataset$salary,ntree=10
+
+###R squared 
+ to best fit model
+
+++ R square be between 0 to 1 not greater than 1
+
+++ the closer to the 1 is better 
+
+ss_res<-sum of square of residuals
+
+ss_tot<-total sum of number of square
+
+R2=1-SS_res/SS_tot
+
+++R2 can be negative 
+
+to min the 

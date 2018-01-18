@@ -1,0 +1,12 @@
+MULTIPLE REGRESSION
+
+y=b0+b1*x1+b2*x2+...+bn*xn
+
+mutiple independent variables
+Backward elimination is look what are the independent variable are statistically significant to dependent variable 
+
+STEP 1
+ significant value threshold for pvalue 
+pvalue of inde valeu below the signi value then idene stay in the model 
+pvalue is higher than signi value remove it 
+

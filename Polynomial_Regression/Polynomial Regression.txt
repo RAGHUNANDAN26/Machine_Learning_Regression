@@ -1,0 +1,4 @@
+
+POLYNOMIAL REGRESSION
+
+y= b0 + b1x1 + b2x1^2  + ...+bnxn 

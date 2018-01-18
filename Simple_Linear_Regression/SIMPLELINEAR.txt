@@ -1,0 +1,24 @@
+####SimpleLinear regression
+
+y=b0+b1*x
+
+y<- is dependted values
+b0<-constants
+b1<-coefficient
+x<-independented value
+
+the line draw to best fit 
+
+++Constant <-the point  where the line cross the vertical axis
+++Coefficent <-slope of the value
+
+BEST FITTING LINE  
+Step 2
+to get best fitting
+
+sum(yi-yi^)^2->min
+
+yi<- real value
+yi^<-the line 
+the difference 
+
